@@ -1,4 +1,4 @@
-# RFID Smart Employee Tracking and Attendance System
+# ATTENDIFY-RFID: SMART EMPLOYEE TRACKING & REPORTING SYSTEM
 
 ## 📌 Project Overview
 
