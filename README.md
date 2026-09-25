@@ -338,7 +338,7 @@ linux_t/
 
 ---
 ## 🖥️ Project Output
-![image alter]()
+![image alter](https://github.com/jyothichikati01-pixel/RFID/blob/a55e0362d0189dbef4fe19b243a173e855460a30/output1.jpeg)
 
 ![image alter]()
 ## 📌 Future Enhancements
