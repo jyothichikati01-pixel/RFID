@@ -1,4 +1,3 @@
-# RFID
 # RFID Smart Employee Tracking and Attendance System
 
 ## 📌 Project Overview
@@ -320,6 +319,13 @@ linux_t/
 
 ---
 
+## 🖥️ Project Output
+![image alter](https://github.com/jyothichikati01-pixel/RFID/blob/a55e0362d0189dbef4fe19b243a173e855460a30/output1.jpeg)
+
+![image alter](https://github.com/jyothichikati01-pixel/RFID/blob/3a474d38e500b751b04a3cbe52ace779d55c682b/output2.jpeg)
+
+---
+
 ## 🛠️ Key Features
 
 * RFID-based employee identification
@@ -337,10 +343,7 @@ linux_t/
 * Employee add/edit/delete operations
 
 ---
-## 🖥️ Project Output
-![image alter](https://github.com/jyothichikati01-pixel/RFID/blob/a55e0362d0189dbef4fe19b243a173e855460a30/output1.jpeg)
 
-![image alter]()
 ## 📌 Future Enhancements
 
 Possible future improvements include:
@@ -356,7 +359,8 @@ Possible future improvements include:
 
 ---
 
-## 📄 License
+## ⭐ Project Summary
 
+**RFID Smart Employee Tracking and Attendance System** is an embedded system designed to automate employee attendance and reduce manual errors. The system uses an **RFID reader** to identify employees through their unique RFID IDs. An **LPC2148 ARM7 microcontroller** receives the RFID data through **UART1**, obtains the current date and time from an **RTC**, and communicates with a **Linux-based PC application through UART0**. Employee attendance details, including **IN/OUT time and working hours**, are maintained in a CSV file. The system also uses **LCD, keypad, SPI EEPROM, interrupts, and MAX232/serial communication** for user interaction, data storage, and reliable communication.
 
 
